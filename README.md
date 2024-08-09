@@ -2,7 +2,7 @@
 #Acıkhack2024TDDİ
 #İçerikMuhafızı
 
-# NLP_VeriSeti
+# NLP_Dataset
 Bu repo İçerik Muhafızı takımımızın bert tabanlı model eğitiminde kullanılan veri setini ve eğitilen modelin nasıl kullanılacağını içerir.
 
 # Model Kullanımı 
