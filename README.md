@@ -13,4 +13,4 @@ model_name = "IcerikMuhafizi/bert-base-turkish-uncased-IM3"
 model = AutoModelForSequenceClassification.from_pretrained(model_name)
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 
-[Video Başlığı]([https://www.youtube.com/watch?v=video_id](https://www.youtube.com/watch?v=DdQHhL5FLfk))
+
