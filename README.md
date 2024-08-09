@@ -17,5 +17,5 @@ tokenizer = AutoTokenizer.from_pretrained(model_name)
 
 ![Açıklama Metni](https://github.com/icerikMuhafizi/IcerikMuhafizi-TeknofestTDDI-2024/blob/main/WhatsApp%20Image%202024-08-09%20at%2017.09.35%20(2).jpeg?raw=true)
 ![Açıklama Metni](https://github.com/icerikMuhafizi/IcerikMuhafizi-TeknofestTDDI-2024/blob/main/WhatsApp%20Image%202024-08-09%20at%2017.09.35%20(1).jpeg?raw=true)
-![Açıklama Metni]()
+![Açıklama Metni](https://github.com/icerikMuhafizi/IcerikMuhafizi-TeknofestTDDI-2024/blob/main/WhatsApp%20Image%202024-08-09%20at%2017.09.35.jpeg?raw=true)
 
